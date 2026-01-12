@@ -1,0 +1,11 @@
+genesys:
+  path: "C:/Users/Isabel Loyo Luna/Documents/RespaldoFlujosEnero/"
+  credentials:
+    US:
+      host: "https://api.mypurecloud.com"
+      clientId: "2e64fadc-1dd3-472a-a6dc-d446a8a02407"
+      clientSecret: "vxFSnNFva5fstrmBw0Mumf3QtI3vJbelQxmWEByGtTQ"
+    CA:
+      host: "https://api.cac1.pure.cloud"
+      clientId: "18598c24-e2fa-407a-b45c-5f3cc9b0d155"
+      clientSecret: "vStkrW3f5aTFWFWLYjrUh5dDqsSLBwoXEk0Ilo-2uKI"
